@@ -6,5 +6,7 @@ class PostsController < ApplicationController
   def new 
   end
   
+  get create
+  end
   
 end
