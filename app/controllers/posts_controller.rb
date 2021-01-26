@@ -7,6 +7,4 @@ class PostsController < ApplicationController
   def new 
   end
   
-  get /posts/:id(.:format) 
-  end
 end
